@@ -40,8 +40,8 @@ Select the best clustering solution: If the evaluation metrics allow for it, you
 ...
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
-Developed by: Rahul K
-RegisterNumber: 212221043006
+Developed by: Ragul E
+RegisterNumber: 212221043005
 */
 
 
